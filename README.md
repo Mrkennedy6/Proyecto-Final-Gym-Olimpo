@@ -1,7 +1,9 @@
 ﻿# Proyecto-Final-Gym-Olimpo
  
 #Proyecto: Gym Olimpo - Página Web Corporativa
+
 #Descripción
+
 #Como proyecto final hice una pagina wed hacerca de los servicios que ofreceria un gym la cual consiste en:
 #Gym Olimpo es un proyecto web que presenta los servicios, precios y detalles del gimnasio Olimpo, un centro de entrenamiento de alto rendimiento. Esta página está diseñada con HTML5 y #CSS3, y tiene como objetivo ofrecer una experiencia intuitiva y completa para los usuarios interesados en mejorar su salud y bienestar físico. A través de una estructura moderna y #visualmente atractiva, los visitantes pueden conocer los diferentes servicios ofrecidos, como entrenamientos personalizados, clases grupales y asesoría nutricional. Además, incluye un área #para obtener información sobre precios y un formulario de contacto para consultas o inscripciones, todo de manera simulada.
 
